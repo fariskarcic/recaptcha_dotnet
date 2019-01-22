@@ -1,0 +1,30 @@
+C:\Users\Faris\Desktop\recaptcha dotnet\bin\Debug\netcoreapp2.2\recaptcha dotnet.deps.json
+C:\Users\Faris\Desktop\recaptcha dotnet\bin\Debug\netcoreapp2.2\recaptcha dotnet.runtimeconfig.json
+C:\Users\Faris\Desktop\recaptcha dotnet\bin\Debug\netcoreapp2.2\recaptcha dotnet.runtimeconfig.dev.json
+C:\Users\Faris\Desktop\recaptcha dotnet\bin\Debug\netcoreapp2.2\recaptcha dotnet.dll
+C:\Users\Faris\Desktop\recaptcha dotnet\bin\Debug\netcoreapp2.2\recaptcha dotnet.pdb
+C:\Users\Faris\Desktop\recaptcha dotnet\bin\Debug\netcoreapp2.2\recaptcha dotnet.Views.dll
+C:\Users\Faris\Desktop\recaptcha dotnet\bin\Debug\netcoreapp2.2\recaptcha dotnet.Views.pdb
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.csprojAssemblyReference.cache
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.RazorAssemblyInfo.cache
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.RazorAssemblyInfo.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.AssemblyInfoInputs.cache
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.AssemblyInfo.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.TagHelpers.input.cache
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.TagHelpers.output.cache
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.RazorCoreGenerate.cache
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.RazorTargetAssemblyInfo.cache
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.RazorTargetAssemblyInfo.cs
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.Views.pdb
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.dll
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.pdb
+C:\Users\Faris\Desktop\recaptcha dotnet\obj\Debug\netcoreapp2.2\recaptcha dotnet.csproj.CopyComplete

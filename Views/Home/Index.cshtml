@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@section Scripts{
+        <script defer>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LeAc4YUAAAAAHqj3HTQMBUeRkqlyA63nT0BUDax', {action: 'Home_test'})
+            .then(function(token) {
+            // Verify the token on the server.
+            $.ajax({
+                type: "POST",
+                url: "/api/recaptcha/verify?token="+token,
+                success: function(response){
+                    console.log(response);
+                }
+            });
+            });
+        });
+    </script>
+}
